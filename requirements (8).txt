@@ -1,0 +1,5 @@
+telethon
+pyrogram
+aiohttp
+requests
+python-dotenv
